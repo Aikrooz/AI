@@ -1,1 +1,1 @@
-AI agents or bota
+AI agents or bots
