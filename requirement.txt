@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 dotenv
 langchain_community
 langchain_core
+=======
+dotenv
+langchain_community
+langchain_core
+>>>>>>> b29386538de1331f7578237a28a9b5d610edaeea
 langchain-ollama

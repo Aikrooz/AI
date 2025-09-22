@@ -1,3 +1,5 @@
+
+
 from dotenv import load_dotenv
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -21,4 +23,5 @@ st.title("Life Coach Chatbot ")
 text_input = st.text_input("Tell me your life problems:")
 st.write("By Aaronjames")
 if text_input:
+
     st.write(chain.invoke({"question":text_input}))
